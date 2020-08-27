@@ -6,3 +6,20 @@ body {
 a {
   color: #00B7FF;
 }
+
+#title{ 
+  text-align: center;
+}
+
+#navBar > a{
+  margin: 10px;
+}
+
+.table {
+  padding: 10px;
+}
+
+#destHeader {
+  padding: 50px 0px 0px 5px;
+}
+

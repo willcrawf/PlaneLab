@@ -1,4 +1,4 @@
-const Plane = require('../models/plane')
+const Plane = require('../models/Plane')
 
 module.exports = {
     create
